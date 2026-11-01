@@ -1,6 +1,6 @@
 /* دكتورة ميار — Service Worker
    لنشر تحديث: عدّل الصفحة ثم غيّر رقم CACHE_VERSION هنا */
-const CACHE_VERSION = "mayar-v1";
+const CACHE_VERSION = "mayar-v2";
 const ASSETS = [
   "./", "./index.html", "./manifest.json",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/icon-maskable-512.png",
